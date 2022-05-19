@@ -1,2 +1,0 @@
-total 0
--rw-rw-r-- 1 m_wu3 m_wu3 0 May 19 15:25 test.txt
